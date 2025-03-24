@@ -91,12 +91,14 @@ fclose(fileID);
 
 %% TASK 2 - LED TEMPERATURE MONITORING DEVICE IMPLEMENTATION [25 MARKS]
 a=arduino("COM5","Uno");
-% Insert answers here
-
-
+% create the arduino connection
+temp_monitor(a); 
+% calls the function
 %% TASK 3 - ALGORITHMS – TEMPERATURE PREDICTION [25 MARKS]
-
-% Insert answers here
+a=arduino("COM5","Uno");
+% create the arduino connection
+temp_prediction(a); 
+% calls the function
 
 
 %% TASK 4 - REFLECTIVE STATEMENT [5 MARKS]
