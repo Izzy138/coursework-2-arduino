@@ -103,7 +103,16 @@ temp_prediction(a);
 
 %% TASK 4 - REFLECTIVE STATEMENT [5 MARKS]
 
-% Insert reflective statement here (400 words max)
+% I was initially a little concerned about this coursework as it would be
+% using the arduino which is equipment i have never used before.
+% Additionally before the coding could be complete i first needed to work
+% out how to set up the components safetly and so that it works properly.
+% One success was that my coding skills developed for example between task
+% 2 and 3 i realised that code could be reused between the two which made
+% the process more efficient. In the future i would review the loops in
+% task 2 and 3 that control the lights changing because i think that they
+% could be written using less code however at the moment i am unsure as to
+% how to do this.
 
 
 %% TASK 5 - COMMENTING, VERSION CONTROL AND PROFESSIONAL PRACTICE [15 MARKS]
