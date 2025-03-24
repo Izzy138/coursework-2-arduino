@@ -94,13 +94,16 @@ a=arduino("COM5","Uno");
 % create the arduino connection
 temp_monitor(a); 
 % calls the function
+
+%the flow charts and breadboard can be found in the word documents in the
+%zip file
 %% TASK 3 - ALGORITHMS – TEMPERATURE PREDICTION [25 MARKS]
 a=arduino("COM5","Uno");
 % create the arduino connection
 temp_prediction(a); 
 % calls the function
 
-
+%the flow chart can be found in the word documents in the zip file
 %% TASK 4 - REFLECTIVE STATEMENT [5 MARKS]
 
 % I was initially a little concerned about this coursework as it would be
@@ -112,7 +115,8 @@ temp_prediction(a);
 % the process more efficient. In the future i would review the loops in
 % task 2 and 3 that control the lights changing because i think that they
 % could be written using less code however at the moment i am unsure as to
-% how to do this.
+% how to do this. Additionally i will use different software to create the
+% flow charts in order to take up less time.
 
 
 %% TASK 5 - COMMENTING, VERSION CONTROL AND PROFESSIONAL PRACTICE [15 MARKS]
